@@ -27,5 +27,5 @@ Coming soon — I'm currently building data analytics projects and will be addin
 
 ### 📫 Connect With Me
 
-- LinkedIn: [Aryan Tiwari](YOUR_LINKEDIN_URL)
+- LinkedIn: [Aryan Tiwari](www.linkedin.com/in/aryan-tiwari-595b82230)
 - GitHub: [Aryan9161](https://github.com/Aryan9161)
